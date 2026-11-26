@@ -1,0 +1,19 @@
+{
+  "name": "HITSTER Soundtracks — Films, Séries & Animes",
+  "short_name": "Hitster OST",
+  "description": "Jeu musical multijoueur Hitster avec 1500+ soundtracks de films, séries télé et animes, connecté à Spotify Live.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090c15",
+  "theme_color": "#090c15",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
